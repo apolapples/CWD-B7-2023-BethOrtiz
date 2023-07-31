@@ -1,0 +1,122 @@
+.main-header {
+    background: url(L1.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: bottom;
+    color: #fff
+}
+
+.main-header-shop {
+    background: url(shop.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.main-header-signup {
+    background: url(visit.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.schedule-visit {
+    background: url(L2.jpg);
+    position: relative;
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: #fff
+}
+
+.main-header .showcase {
+    padding-top: 50px;
+}
+
+.main-header-shop .showcase {
+    padding-top: 50px;
+}
+
+.main-header-signup .showcase {
+    padding-top: 50px;
+}
+
+.section-developers {
+    position: relative;
+    background: url(wallpaper3.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 180px;
+}
+
+.home-developers {
+    position: relative;
+    background: url(wallpaper.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 280px;
+}
+
+.section-bottom {
+    position: relative;
+    background: url(water-splash.jpg);
+    background-size: cover;
+    background-position: center; 
+    min-height: 180px;
+}
+
+.primary-overlay {
+    background: rgba(95, 193, 211, 0.507);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.secondary-overlay {
+    background: rgba(95, 193, 211, 0.322);
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.home-overlay {
+    background: rgba(109, 186, 221, 0.384);
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.btn-extend {
+    display: block;
+    width: 100%
+}
+
+ .nav-style {
+    font-family: "Arial";
+    /* font-weight: bold; */
+    /* font-size: 40px; */
+ }
+
+ .showcase-style {
+    font-family: "Times New Roman", Times, serif;
+    /* font-size: 30px; */
+    text-shadow: 3px 3px 3px #77aec7;
+ }
+
+ .box {
+    /* height: 350px; */
+    border: 3px solid rgb(79, 181, 221);
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .underline {
+    text-decoration-line: underline;
+  }
